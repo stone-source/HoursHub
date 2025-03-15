@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogic", "BusinessLogic", "{6015847E-5250-4562-94DC-896B5DE3BAD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Endpoints", "Endpoints", "{0D243452-0EF1-4B66-84BB-06D81C788629}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{74AB089B-98A6-4CD8-9EEE-963CB468E80D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoursHub.TimeLoggingService.Endpoints", "HoursHub.TimeLoggingService.Endpoints\HoursHub.TimeLoggingService.Endpoints.csproj", "{1849B280-C7D0-4C36-97A7-74BAE845666D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8ACA9A-5D5F-41CD-B6C8-11E3D088BC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8ACA9A-5D5F-41CD-B6C8-11E3D088BC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8ACA9A-5D5F-41CD-B6C8-11E3D088BC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8ACA9A-5D5F-41CD-B6C8-11E3D088BC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1849B280-C7D0-4C36-97A7-74BAE845666D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1849B280-C7D0-4C36-97A7-74BAE845666D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1849B280-C7D0-4C36-97A7-74BAE845666D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1849B280-C7D0-4C36-97A7-74BAE845666D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1849B280-C7D0-4C36-97A7-74BAE845666D} = {0D243452-0EF1-4B66-84BB-06D81C788629}
+	EndGlobalSection
+EndGlobal
